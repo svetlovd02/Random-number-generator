@@ -4,7 +4,7 @@ import easygui
 import os
 
 root = Tk()
-root.iconbitmap("C:/Users/para/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0/LocalCache/local-packages/Python310/Scripts/krtecek2.ico")
+root.iconbitmap("krtecek2.ico")
 root.geometry("300x250")
 root.title("Random number generator")
 root.grid()
